@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T14:14:27.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="2Sk6KZfd8_vstSnxJkeo" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T14:15:36.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="i0nOGVBPfmOI0aNQn1qS" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="sfXHjTrYu6h1Sz9sCr_c">
-    <mxGraphModel dx="2760" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1359" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3aFkIscJD6onxiA6AKRw-1" value="Nova" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="30" width="110" height="50" as="geometry" />
+          <mxGeometry x="210" y="40" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3aFkIscJD6onxiA6AKRw-3" value="Nova developers" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="133.33" height="40" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="3aFkIscJD6onxiA6AKRw-4" value="Nova Learn" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="133.33" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3aFkIscJD6onxiA6AKRw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3aFkIscJD6onxiA6AKRw-5" target="3aFkIscJD6onxiA6AKRw-13">
+        <mxCell id="3aFkIscJD6onxiA6AKRw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3aFkIscJD6onxiA6AKRw-5" target="3aFkIscJD6onxiA6AKRw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3aFkIscJD6onxiA6AKRw-5" value="Nova IT" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
@@ -111,7 +111,7 @@
         <mxCell id="3aFkIscJD6onxiA6AKRw-33" value="&lt;h1&gt;About &quot;Nova Developers&quot;&lt;/h1&gt;&lt;p&gt;Это Software developing компания, которая предоставляет услуги полного цикла разработки различного ПО, его поддержки, улучшения, консультирования а так же предоставляет квалифицированные кадры&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-370" y="100" width="310" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3aFkIscJD6onxiA6AKRw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.734;entryY=-0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3aFkIscJD6onxiA6AKRw-5" target="3aFkIscJD6onxiA6AKRw-16">
+        <mxCell id="3aFkIscJD6onxiA6AKRw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3aFkIscJD6onxiA6AKRw-5" target="3aFkIscJD6onxiA6AKRw-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
